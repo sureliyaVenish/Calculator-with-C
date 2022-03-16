@@ -2,7 +2,6 @@
 #include<conio.h>
 
 void main(){
-    getch();
     
     char username[1];
     int calculationinput;
@@ -74,5 +73,4 @@ void main(){
     }
     printf("\n\nCreated by Venish Sureliya");
     
-    clrscr();
 }
